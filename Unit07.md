@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation’s “PSYCH202A Final Exam”**
     Link: The Saylor Foundation’s [“PSYCH202A Final

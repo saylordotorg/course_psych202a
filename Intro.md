@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH202A: Research Methods"
 -------------------------------------------------
 

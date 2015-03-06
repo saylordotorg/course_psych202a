@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Research Report** <span id="2"></span> 
 *The research report is the primary method by which scientists let
 others know of their research and findings. Psychologists frequently

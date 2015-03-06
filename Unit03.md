@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Ethical Research** <span id="3"></span> 
 *Research in psychology is integral to helping other human beings; it
 enables us to better understand others and their behaviors. However,

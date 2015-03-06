@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Understanding Research Results** <span id="6"></span> 
 *One of the most important aspects of the research process is
 understanding the results that your experiment yields. While this may

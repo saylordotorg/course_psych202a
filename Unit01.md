@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to Research** <span id="1"></span> 
 *Research is the foundation on which any solid science must be built. It
 creates an organized and structured way to gain knowledge about a

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Measurement Concepts** <span id="4"></span> 
 *All research measures something and that “something” is a variable.
 This unit will provide an in-depth introduction to variables and

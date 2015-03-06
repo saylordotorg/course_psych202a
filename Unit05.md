@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH202A: Research Methods"
+course_description: "An introduction to the research methodologies frequently used in the social sciences."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Observation, Survey, and Experimental Research Designs** <span
 id="5"></span> 
 *Almost all psychological research conducted today falls into one of
