@@ -60,8 +60,8 @@ computer.
  √    Have read the [Saylor Student
 Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
- √    Have completed [PSYCH201/MA121: Introduction to
-Statistics](http://www.saylor.org/courses/psych201/).
+ √    Have completed [MA121: Introduction to
+Statistics](http://www.saylor.org/courses/ma121/) or be comfortable with its concepts.
 
 ### Course Information
 
