@@ -140,3 +140,4 @@ forth.
 - [Unit 5](https://legacy.saylor.org/psych202a/Unit05/)
 - [Unit 6](https://legacy.saylor.org/psych202a/Unit06/)
 - [Unit 7](https://legacy.saylor.org/psych202a/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH202A/PSYCH202A-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH202A/PSYCH202A-FinalExam-Answers.html)
