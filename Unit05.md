@@ -289,7 +289,7 @@ id="5.4.5"></span> 
     Validity”**
     Link: Psychology World: Richard Hall’s [“Extraneous and Confounding
     Variables and Systematic vs. Non-Systematic
-    Error”](http://www.saylor.org/site/wp-content/uploads/2011/08/PSYCH202A-5.3.1-Extraneous-and-Confounding-Variables-and-Systematic-vs-Non1.pdf)
+    Error”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202A-5.3.1-Extraneous-and-Confounding-Variables-and-Systematic-vs-Non1.pdf)
     (PDF) and Research Methods Knowledge Base: William Trochim’s
     [“Internal
     Validity”](http://www.socialresearchmethods.net/kb/intval.php)
