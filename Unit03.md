@@ -62,7 +62,7 @@ id="3.1.1"></span> 
 -   **Reading: Wikipedia’s “Milgram Experiment” and Association for
     Psychological Science: Jerry Burger’s “Replicating Milgram”**
     Link: Wikipedia’s [“Milgram
-    Experiment”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202A-3.1.1-Milgram-experiment.pdf)
+    Experiment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/PSYCH202A-3.1.1-Milgram-experiment.pdf)
     (PDF) and Association for Psychological Science: Jerry Burger’s
     [“Replicating
     Milgram”](http://www.psychologicalscience.org/index.php/publications/observer/2007/december-07/replicating-milgram.html#.UJvxE292xyJ)
@@ -151,7 +151,7 @@ Experimental Subjects** <span id="3.2.1"></span> 
     Review Board Guidebook: “The Belmont Report”**
     Link: The Office of Human Research Protection’s *Institutional
     Review Board Guidebook*: [“The Belmont
-    Report”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/PSYCH202A-3.2.1-The-Belmont-Report.pdf)
+    Report”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/PSYCH202A-3.2.1-The-Belmont-Report.pdf)
     (PDF)  
       
      Instructions: Please read section B of this webpage to learn about
